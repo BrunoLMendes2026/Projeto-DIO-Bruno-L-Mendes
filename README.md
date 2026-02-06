@@ -1,5 +1,7 @@
 # Projeto DIO - Bruno L Mendes - APP Conversacional de Finanças Pessoais 
 
+### Esse APP foi desenvolvido como desafio de projeto de Vibe Coding utilizando o Copilot Web, Gemini e Lovable. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
 ## PRD refinado do COPILOT WEB
 
 ## 1. Problema
